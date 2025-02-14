@@ -125,5 +125,227 @@ Entendido! Aqui está a lista completa de tags HTML sem os caracteres `&lt;` e `
 - `<strike>`: Texto riscado (use `<del>` ou CSS).
 
 ---
+---
+---
 
-Agora você pode copiar esse conteúdo diretamente para um editor de texto como Word ou Google Docs. Se precisar de mais ajustes ou exemplos práticos, é só pedir! 😊
+# **ABAIXO REPITO TUDO SO QUE COM SEUS ATRIBUTOS**
+
+---
+
+## **Lista Completa de Tags HTML com Atributos, Métodos e Funções**
+
+---
+
+## **Estrutura do Documento**
+- **`<html>`**  
+  - **Atributos**: `lang` (define o idioma do documento).  
+  - **Função**: Marca o início e fim de um documento HTML.  
+  - **Uso**: `<html lang="pt-BR">`.
+
+- **`<head>`**  
+  - **Atributos**: Nenhum específico.  
+  - **Função**: Contém metadados sobre o documento, como título, links para folhas de estilo e scripts.  
+
+- **`<body>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Define o conteúdo visível da página.  
+
+---
+
+## **Metadados**
+- **`<title>`**  
+  - **Atributos**: Nenhum específico.  
+  - **Função**: Define o título exibido na aba do navegador.  
+
+- **`<meta>`**  
+  - **Atributos**: `charset` (codificação de caracteres), `name` (nome do metadado), `content` (valor do metadado), `http-equiv` (comportamento HTTP).  
+  - **Função**: Fornece informações adicionais sobre o documento. Exemplo: `<meta charset="UTF-8">`.
+
+- **`<base>`**  
+  - **Atributos**: `href` (URL base), `target` (como abrir links).  
+  - **Função**: Define a URL base para todos os links relativos no documento. Exemplo: `<base href="https://www.exemplo.com/">`.
+
+- **`<link>`**  
+  - **Atributos**: `rel` (relação), `href` (caminho), `type` (tipo de recurso).  
+  - **Função**: Conecta o documento a recursos externos, como folhas de estilo. Exemplo: `<link rel="stylesheet" href="styles.css">`.
+
+- **`<style>`**  
+  - **Atributos**: `type` (tipo de estilo, geralmente "text/css").  
+  - **Função**: Define estilos CSS diretamente no HTML. Exemplo: `<style> body { background-color: #fff; } </style>`.
+
+- **`<script>`**  
+  - **Atributos**: `src` (caminho do arquivo JavaScript), `type` (tipo de script), `defer` (executa após o carregamento da página), `async` (executa assincronamente).  
+  - **Função**: Insere scripts executáveis. Exemplo: `<script src="script.js"></script>`.
+
+---
+
+## **Estrutura do Conteúdo**
+- **`<header>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Define cabeçalhos de seções ou páginas.  
+
+- **`<footer>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Define rodapés de seções ou páginas.  
+
+- **`<main>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Representa o conteúdo principal único da página.  
+
+- **`<section>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Agrupa conteúdo temático.  
+
+- **`<article>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Representa conteúdo independente, como posts de blog.  
+
+- **`<aside>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Define conteúdo secundário ou relacionado.  
+
+- **`<nav>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Agrupa links de navegação.  
+
+- **`<div>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Define divisões genéricas no layout.  
+
+---
+
+## **Títulos e Texto**
+- **`<h1>` a `<h6>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Define títulos hierárquicos.  
+
+- **`<p>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Define parágrafos de texto.  
+
+- **`<blockquote>`**  
+  - **Atributos**: `cite` (fonte da citação).  
+  - **Função**: Citações longas.  
+
+- **`<pre>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Mantém formatação de espaços e quebras de linha.  
+
+- **`<hr>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Insere uma linha horizontal.  
+
+---
+
+## **Formatação de Texto**
+- **`<b>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Negrito sem ênfase semântica.  
+
+- **`<i>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Itálico sem ênfase semântica.  
+
+- **`<strong>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Negrito com ênfase semântica.  
+
+- **`<em>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Itálico com ênfase semântica.  
+
+- **`<mark>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Realça texto.  
+
+- **`<small>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Texto menor, como notas legais.  
+
+- **`<del>`**  
+  - **Atributos**: `cite` (razão da exclusão), `datetime` (data da exclusão).  
+  - **Função**: Indica texto excluído.  
+
+- **`<ins>`**  
+  - **Atributos**: `cite` (razão da inserção), `datetime` (data da inserção).  
+  - **Função**: Indica texto inserido.  
+
+- **`<sub>` e `<sup>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Subscrito e sobrescrito.  
+
+---
+
+## **Listas**
+- **`<ul>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Lista não ordenada.  
+
+- **`<ol>`**  
+  - **Atributos**: `type` (tipo de numeração), `start` (número inicial).  
+  - **Função**: Lista ordenada.  
+
+- **`<li>`**  
+  - **Atributos**: `value` (valor numérico em listas ordenadas).  
+  - **Função**: Item de lista.  
+
+- **`<dl>`, `<dt>`, `<dd>`**  
+  - **Atributos**: `class`, `id`, `style`.  
+  - **Função**: Lista de descrição com termos e definições.  
+
+---
+
+## **Formulários**
+- **`<form>`**  
+  - **Atributos**: `action` (URL de envio), `method` (GET/POST), `enctype` (tipo de codificação).  
+  - **Função**: Define formulários.  
+
+- **`<input>`**  
+  - **Atributos**: `type` (texto, senha, checkbox, etc.), `name`, `value`, `placeholder`, `required`.  
+  - **Função**: Campos de entrada.  
+
+- **`<textarea>`**  
+  - **Atributos**: `rows`, `cols`, `placeholder`, `required`.  
+  - **Função**: Área de texto.  
+
+- **`<button>`**  
+  - **Atributos**: `type` (submit, reset, button).  
+  - **Função**: Botões clicáveis.  
+
+- **`<select>` e `<option>`**  
+  - **Atributos**: `multiple`, `size`, `selected`.  
+  - **Função**: Menus suspensos.  
+
+- **`<label>`**  
+  - **Atributos**: `for` (associa ao ID do campo).  
+  - **Função**: Rótulos para campos.  
+
+---
+
+## **Imagens e Multimídia**
+- **`<img>`**  
+  - **Atributos**: `src` (caminho da imagem), `alt` (texto alternativo), `width`, `height`.  
+  - **Função**: Exibe imagens.  
+
+- **`<audio>` e `<video>`**  
+  - **Atributos**: `controls`, `autoplay`, `loop`, `muted`.  
+  - **Função**: Mídia de áudio e vídeo.  
+
+---
+
+## **Interatividade**
+- **`<details>` e `<summary>`**  
+  - **Atributos**: `open` (expandido por padrão).  
+  - **Função**: Mostra/oculta detalhes.  
+
+- **`<dialog>`**  
+  - **Atributos**: `open` (aberto por padrão).  
+  - **Função**: Janelas modais.  
+
+- **`<data>`**  
+  - **Atributos**: `value` (valor associado ao conteúdo).  
+  - **Função**: Associa um valor de dado com o conteúdo visível.  
+
+---
+
+Essa lista agora inclui atributos, métodos e funções para cada tag. Se precisar de mais detalhes sobre alguma tag específica, é só pedir! 😊
