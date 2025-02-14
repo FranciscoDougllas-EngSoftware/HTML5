@@ -348,4 +348,3 @@ Entendido! Aqui está a lista completa de tags HTML sem os caracteres `&lt;` e `
 
 ---
 
-Essa lista agora inclui atributos, métodos e funções para cada tag. Se precisar de mais detalhes sobre alguma tag específica, é só pedir! 😊
