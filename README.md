@@ -1,8 +1,4 @@
-Entendido! Aqui está a lista completa de tags HTML sem os caracteres `&lt;` e `&gt;`, formatada para ser copiada diretamente em um editor de texto como Word ou Google Docs:
-
----
-
-# **Lista Completa de Tags HTML**
+# **Lista Completa de Tags HTML5**
 
 ## **Estrutura do Documento**
 - `<html>`: Define o documento HTML.
